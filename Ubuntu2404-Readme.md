@@ -2,6 +2,7 @@
 |-|
 | [[Ubuntu & Windows] Four tools scheduled for deprecation on November 3, 2025](https://github.com/actions/runner-images/issues/12898) |
 | [[Ubuntu & Windows] Four tools scheduled for deprecation on November 4, 2025](https://github.com/actions/runner-images/issues/12898) |
+| [[Ubuntu & Windows] Four tools scheduled for deprecation on November 5, 2025](https://github.com/actions/runner-images/issues/12898) |
 ***
 # Ubuntu 24.04
 - OS Version: 24.04.3 LTS
